@@ -1,6 +1,21 @@
-# Archivos compilados de Python
-__pycache__/
-*.pyc
+*.class
+*.jar
+*.war
 
-# Log generado en tiempo de ejecucion
 cache_operaciones.log
+
+.vscode/
+bin/
+.classpath
+.project
+.settings/
+
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+.DS_Store
+Thumbs.db
