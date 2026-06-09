@@ -16,8 +16,6 @@ las estructuras descritas en el marco teorico (tabla hash + cola para LRU).
 Convencion de orden en la deque:
     * Extremo izquierdo -> elemento MENOS recientemente usado (LRU).
     * Extremo derecho   -> elemento MAS recientemente usado (MRU).
-
-Autor: Victor Manuel Tlapa Carrera
 """
 
 import logging
