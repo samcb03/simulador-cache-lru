@@ -1,0 +1,6 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Log generado en tiempo de ejecucion
+cache_operaciones.log
